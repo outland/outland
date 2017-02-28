@@ -1,7 +1,7 @@
 # Outland
 
 The Outland gem provides a convenience bundle of different Outland utilities, rather than having to include
-each one separately.  The contained gems are autoloaded.
+each one separately.  The contained gems are autoloaded when possible.
 
 ## Installation
 
